@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Zomo Naranja Mango",
+		"price": 680,
+		"thumbnail": "https://cdn.zomoofficial.com/wp-content/uploads/2020/02/ZOMO_2019_PY_50G_COLA_MINT.jpg",
+		"description": "blablabla",
+		"stock": 16,
+		"code": 9548,
+		"timestamp": 1661985701891,
+		"id": 1
+	},
+	{
+		"title": "Zomo Blueberry Menta",
+		"price": 638,
+		"thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/002/222/490/products/blueberry-mint11-5404a48c0db6a332e416555551428991-640-0.png",
+		"description": "Una combinación que tuvo éxito. Zomo presenta a los amantes de la buena esencia, y que son exigentes tratándose de una mezcla de calidad. Ella trae el sabor exótico de blueberry con la refrescancia de la menta.",
+		"stock": 16,
+		"code": 1,
+		"timestamp": 1661986627772,
+		"id": 2
+	},
+	{
+		"title": "Zomo Banana Cinnamon",
+		"price": 638,
+		"thumbnail": "https://cdn.zomoofficial.com/wp-content/uploads/2020/02/ZOMO_2019_PY_50G_BANANA_CINNAMON.jpg",
+		"description": "Zomo presenta para los narguileros, el gusto sabroso de la fruta tropical, banana con el sabor característico de la canela. Un sabor diferente y con un toque inconfundible.",
+		"stock": 16,
+		"code": 3,
+		"timestamp": 1661988294211,
+		"id": 3
+	},
+	{
+		"title": "Zomo Cherry Cream",
+		"price": 638,
+		"thumbnail": "https://cdn.zomoofficial.com/wp-content/uploads/2020/02/ZOMO_2019_PY_50G_CHERRY_CREAM.jpg",
+		"description": "Aquel sabor especial para enamorarte. El sabor incomparable de la cereza con una cremosidad de los dioses.",
+		"stock": 16,
+		"code": 4,
+		"timestamp": 1661988369795,
+		"id": 4
+	}
+]
